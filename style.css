@@ -10,4 +10,9 @@ body{
 }
 .principal{
     background-image: url('imagens/Background.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.container{
+    height:100vh;
 }
